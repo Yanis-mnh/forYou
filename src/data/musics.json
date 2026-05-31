@@ -1,0 +1,19 @@
+[
+  { "title": "autumn leaves", "src": "/music/autumn-leaves.mp3" },
+  { "title": "bossa in my heart", "src": "/music/bossa-in-my-heart.mp3" },
+  { "title": "i love you", "src": "/music/i-love-you.mp3" },
+  {
+    "title": "life of a wandering wizard",
+    "src": "/music/life-of-a-wandering-wizard.mp3"
+  },
+  { "title": "please calm my mind", "src": "/music/please-calm-my-mind.mp3" },
+  { "title": "sleepy rain", "src": "/music/sleepy-rain.mp3" },
+  {
+    "title": "silly silly humor comic",
+    "src": "music/silly-silly-humor-comic.mp3"
+  },
+  {
+    "title": "italy italian",
+    "src": "music/italy-italian.mp3"
+  }
+]

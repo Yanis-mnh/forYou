@@ -19,6 +19,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "blue rose",
   description: "a website made for you :)",
+
+  verification: {
+    google: "XBG_c3LHbOjLevBs2UoVQjyaiizbF940si1KFCXlGqg",
+  },
 };
 
 export default function RootLayout({
